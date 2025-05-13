@@ -1,13 +1,33 @@
-# Python Syntax and Indentation
+# 02_Python_Syntax_and_Indentation.py
+"""
+Python Syntax and Indentation
 
-# Indentation is crucial in Python for defining blocks of code
-if True:
-    print("This line is indented and will be executed.")
-    
-print("This line is not indented and will also be executed.")
+Python uses indentation (whitespace) to define code blocks.
+This is a core part of the language and must be used consistently.
+"""
 
-# Example of a function with proper indentation
-def greet(name):
-    print(f"Hello, {name}!")
+print(" Python Syntax and Indentation")
+print("-" * 40)
 
-greet("Alice")  # Call the function
+print("\n Example 1: Correct indentation")
+age = 20
+
+if age >= 18:
+    print("You are an adult.")
+    print("You can vote.")
+else:
+    print("You are underage.")
+    print("You cannot vote yet.")
+
+print("\n Example 2: Incorrect indentation (will raise an error if uncommented)")
+# Uncomment the lines below to see a syntax error
+# if age >= 18:
+# print("This line is not indented correctly!")
+
+print("\n Tip: Use 4 spaces per indentation level (don't mix tabs and spaces).")
+
+# Bonus: A for loop example
+print("\n Example 3: Loop with proper indentation")
+for i in range(3):
+    print(f"Loop count: {i}")
+print("Loop finished.")

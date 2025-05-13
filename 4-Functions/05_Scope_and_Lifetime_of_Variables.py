@@ -1,0 +1,2 @@
+# 05_Scope_and_Lifetime_of_Variables
+# Placeholder for 05_Scope_and_Lifetime_of_Variables

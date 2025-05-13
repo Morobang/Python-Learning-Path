@@ -1,0 +1,2 @@
+# 05_Custom_Exception_Classes
+# Placeholder for 05_Custom_Exception_Classes

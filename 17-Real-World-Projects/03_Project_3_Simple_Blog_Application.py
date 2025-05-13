@@ -1,0 +1,2 @@
+# 03_Project_3_Simple_Blog_Application
+# Placeholder for 03_Project_3_Simple_Blog_Application

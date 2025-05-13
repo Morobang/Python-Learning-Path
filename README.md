@@ -100,7 +100,7 @@ This is a personal learning journey, but feel free to explore, fork, or suggest 
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [Tshigidimisa Morobang](https://www.linkedin.com/in/yourprofile)  
+- 💼 LinkedIn: [Tshigidimisa Morobang](www.linkedin.com/in/morobang-tshigidimisa-84172b26b)  
 - 🐙 GitHub: [@Morobang](https://github.com/Morobang)
 
 ---
